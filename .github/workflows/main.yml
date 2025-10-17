@@ -44,5 +44,4 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Deploy the application
-        run: echo "Deploying the application..."
-ci-cd-testing.txt
+        run: echo "Deploying the application..
